@@ -6,3 +6,37 @@ patch:
   'npm:debug:20170905':
     - axios > follow-redirects > debug:
         patched: '2022-02-11T17:28:29.660Z'
+    - express > finalhandler > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > micromatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > micromatch > braces > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > micromatch > extglob > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > micromatch > nanomatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > braces > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
+    - webpack > watchpack > watchpack-chokidar2 > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2022-02-16T17:10:59.694Z'
