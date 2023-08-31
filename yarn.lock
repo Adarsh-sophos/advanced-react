@@ -85,7 +85,7 @@
   dependencies:
     debug "^4.3.1"
 
-"@snyk/protect@latest":
+"@snyk/protect@^1.854.0":
   version "1.854.0"
   resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.854.0.tgz#0af3a3403e5bdc3e59e82f73505e4efb60116d50"
   integrity sha512-r9txP409VydYhvxBvY3OUbdpSnc3E+vecV3AtoBT6PzT1Rv1vVKlgfuKwYUSSQwT2UT8F96InhvPT08PG8JXWA==
